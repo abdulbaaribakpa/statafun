@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 0.1.0 29sep2026}{...}
+{* *! version 0.1.1 29sep2026}{...}
 {title:statafun — Offline jokes from an editable CSV bank}
 
 {p 4 4 2}Requires Stata 16 or newer. No network access or extra packages required.

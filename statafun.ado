@@ -1,4 +1,4 @@
-*! version 0.1.0 29sep2026
+*! version 0.1.1 29sep2026
 program define statafun, rclass
     version 16.0
     syntax [, TYPE(string) ID(integer 0) SOURCE CATEGORIES BANK USING(string)]
@@ -157,7 +157,7 @@ program define _statafun_helper, rclass
     local __url_out = source_url[`__row']
 
     display as text _asis `"`macval(__text_out)'"'
-    local __credit `"[`__id_out' | `macval(__type_out)'] Source: `macval(__source_out)'"'
+    local __credit `"Source: `macval(__source_out)'"'
     display as text _asis `"`macval(__credit)'"'
     if "`source'" != "" display as text _asis `"`macval(__url_out)'"'
 
