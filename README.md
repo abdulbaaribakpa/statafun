@@ -5,6 +5,16 @@ Python installation, or internet connection is needed to use the command.
 
 ## Start here
 
+Install directly from the public GitHub repository:
+
+```stata
+net install statafun, from("https://raw.githubusercontent.com/abdulbaaribakpa/statafun/main")
+statafun
+```
+
+Requires Stata 16 or newer. No GitHub account is needed. Share this command with
+friends and ask them to report confusing jokes or errors in the repository's issues.
+
 The quickest way to use this editable folder is to add it to Stata's search path:
 
 ```stata
@@ -85,12 +95,8 @@ This installs a separate copy in your ado directory. Use `statafun, bank` to fin
 that copy before editing, or use `using()` to keep your personal bank outside the
 installation. Reinstalling with `replace` can overwrite the installed CSV.
 
-The GitHub repository is https://github.com/abdulbaaribakpa/statafun.
-It is initially private. Download or clone it while signed in, then install
-from the local folder. A plain Stata `net install` cannot authenticate to a
-private GitHub repository.
-
-If you later make the repository public, the installation command becomes:
+The GitHub repository is public: https://github.com/abdulbaaribakpa/statafun.
+Anyone can install with:
 
 ```stata
 net install statafun, from("https://raw.githubusercontent.com/abdulbaaribakpa/statafun/main")
