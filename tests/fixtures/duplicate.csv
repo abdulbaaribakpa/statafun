@@ -1,0 +1,3 @@
+id,type,text,source,source_url,enabled
+1,general,First,TEST,,1
+1,general,Duplicate,TEST,,0

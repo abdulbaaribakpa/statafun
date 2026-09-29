@@ -1,0 +1,3 @@
+v 3
+d statafun: Offline jokes for Stata
+p statafun Editable offline joke bank

@@ -1,0 +1,26 @@
+// No browser or dependencies required: checks actual editor CSV logic.
+const fs = require('node:fs');
+const vm = require('node:vm');
+const assert = require('node:assert/strict');
+const path = require('node:path');
+const root = path.join(__dirname, '..');
+const html = fs.readFileSync(path.join(root, 'editor.html'), 'utf8');
+const js = html.match(/<script>([\s\S]*?)<\/script>/)[1];
+const elements = new Map();
+const context = vm.createContext({document:{getElementById(id){if(!elements.has(id))elements.set(id,{});return elements.get(id);}},window:{addEventListener(){}},console});
+vm.runInContext(js, context);
+const bank = fs.readFileSync(path.join(root, 'statafun_jokes.csv'), 'utf8');
+context.bank = bank;
+vm.runInContext('var testRows=parseCSV(bank); validate(testRows); var roundtrip=parseCSV(csv(testRows));', context);
+assert.equal(context.testRows.length, 200);
+assert.deepEqual(JSON.parse(JSON.stringify(context.testRows)), JSON.parse(JSON.stringify(context.roundtrip)));
+context.custom = fs.readFileSync(path.join(__dirname, 'fixtures', 'custom.csv'), 'utf8');
+vm.runInContext('var customRows=parseCSV(custom); validate(customRows);', context);
+assert.equal(context.customRows.length, 2);
+assert.ok(context.customRows[0].text.includes('\nSecond line'));
+assert.ok(context.customRows[0].text.includes('"double quotes"'));
+assert.throws(()=>vm.runInContext('validate([...testRows,testRows[0]])',context),/Duplicate ID/);
+vm.runInContext('testRows[0].text="Edited, with quotes \\" and café"; testRows[0].enabled="0"; validate(testRows); var edited=parseCSV(csv(testRows));',context);
+assert.equal(context.edited[0].enabled,'0');
+assert.equal(context.edited[0].text,context.testRows[0].text);
+console.log('EDITOR_CSV_TESTS_PASS: 200 rows roundtrip; literal quotes/newlines; editing; duplicate rejection.');

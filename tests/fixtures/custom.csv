@@ -1,0 +1,4 @@
+id,type,text,source,source_url,enabled
+901,economics,"Literal CSV test: commas, ""double quotes"", café, {browse example.org}, $STATAFUN_TEST_SENTINEL and `unexpanded'.
+Second line stays in this cell.",CUSTOM,https://example.org/source,1
+902,economics,This disabled row must not display,CUSTOM,https://example.org/source,0

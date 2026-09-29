@@ -1,0 +1,10 @@
+v 3
+d statafun 0.1.0 - Offline jokes with an editable CSV bank
+d Requires Stata 16 or newer
+d Distribution-Date: 20260929
+f statafun.ado
+f statafun.sthlp
+F statafun_jokes.csv
+F statafun_SOURCES.md
+F statafun_UPSTREAM_LICENSE.txt
+F statafun_LICENSE.txt

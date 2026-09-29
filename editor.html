@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>statafun · Joke bank editor</title>
+<style>
+body{font:16px system-ui,sans-serif;background:#f5f4ef;color:#222;max-width:1100px;margin:36px auto;padding:0 20px}h1{font-size:36px;margin-bottom:4px}p{line-height:1.5}.toolbar{position:sticky;top:0;background:#f5f4ef;padding:15px 0;display:flex;gap:10px;flex-wrap:wrap;border-bottom:1px solid #ccc}button,.open{font:inherit;padding:10px 14px;background:#154f45;color:white;border:0;border-radius:6px;cursor:pointer}input,select,textarea{font:inherit;padding:8px;border:1px solid #bbb;border-radius:5px;box-sizing:border-box}#search{flex:1;min-width:200px}article{background:white;padding:20px;margin:18px 0;border:1px solid #ddd;border-radius:10px}textarea{display:block;width:100%;height:90px;margin:12px 0;resize:vertical}.meta{display:flex;gap:14px;flex-wrap:wrap;align-items:end}.meta label{display:flex;flex-direction:column;font-size:13px;gap:5px}.meta .url{flex:1;min-width:210px}.meta input{width:100%}.small{width:110px}.danger{background:#82433c;margin-left:auto}.notice{color:#575b55}#status{font-weight:600}button:disabled{opacity:.5;cursor:default}#empty{padding:35px;text-align:center}input[type=checkbox]{width:20px;height:20px}
+</style></head><body>
+<h1>statafun</h1><p>Edit your offline joke bank. Open <strong>statafun_jokes.csv</strong>, make changes, then download and replace the working file.</p>
+<p class="notice">Everything stays on your computer. No uploads. Download before closing this page.</p>
+<div class="toolbar"><label class="open">Open CSV<input id="file" type="file" accept=".csv,text/csv" hidden></label><input id="search" aria-label="Search jokes" placeholder="Search jokes, IDs, types, or sources"><button id="add" disabled>Add joke</button><button id="save" disabled>Download edited CSV</button></div>
+<p id="status" role="status">Open a CSV to begin.</p><main id="cards"><p id="empty">Your jokes will appear here.</p></main>
+<script>
+'use strict';
+const columns=['id','type','text','source','source_url','enabled'];
+let rows=[],dirty=false,loaded=false;
+const $=id=>document.getElementById(id);
+function parseCSV(text){
+ text=text.replace(/^\uFEFF/,'');let data=[],row=[],cell='',quote=false;
+ for(let i=0;i<text.length;i++){
+  let c=text[i];
+  if(c==='"'){if(quote&&text[i+1]==='"'){cell+='"';i++;}else quote=!quote;}
+  else if(c===','&&!quote){row.push(cell);cell='';}
+  else if((c==='\n'||c==='\r')&&!quote){if(c==='\r'&&text[i+1]==='\n')i++;row.push(cell);if(row.some(x=>x!==''))data.push(row);row=[];cell='';}
+  else cell+=c;
+ }
+ if(quote)throw Error('Unclosed quote in CSV.');
+ if(cell!==''||row.length){row.push(cell);data.push(row);}
+ if(!data.length)throw Error('Empty file.');
+ const header=data.shift().map(x=>x.trim());
+ if(header.length!==columns.length||columns.some(c=>!header.includes(c)))throw Error('Expected exactly: '+columns.join(', '));
+ return data.map((r,i)=>{if(r.length!==header.length)throw Error('Wrong column count at row '+(i+2));return Object.fromEntries(header.map((c,j)=>[c,r[j]]));});
+}
+function validate(items){const ids=new Set();for(let i=0;i<items.length;i++){const r=items[i];if(!/^\d+$/.test(r.id)||Number(r.id)<1||!Number.isSafeInteger(Number(r.id)))throw Error('Row '+(i+1)+': ID must be a positive whole number.');if(ids.has(Number(r.id)))throw Error('Duplicate ID '+r.id);ids.add(Number(r.id));if(!['0','1'].includes(r.enabled))throw Error('ID '+r.id+': enabled must be 0 or 1.');if(r.enabled==='1'&&(!r.type.trim()||!r.text.trim()))throw Error('ID '+r.id+': enabled jokes need type and text.');}}
+function csv(items){return [columns,...items.map(r=>columns.map(c=>r[c]))].map(r=>r.map(x=>'"'+String(x).replaceAll('"','""')+'"').join(',')).join('\r\n')+'\r\n';}
+function status(){ $('status').textContent=rows.length+' jokes · '+rows.filter(r=>r.enabled==='1').length+' enabled'+(dirty?' · Unsaved edits':'');}
+function changed(){dirty=true;status();}
+function field(parent,title,key,row,cls){const l=document.createElement('label');l.textContent=title;if(cls)l.className=cls;const el=document.createElement('input');el.value=row[key];el.addEventListener('input',()=>{row[key]=el.value;changed();});l.append(el);parent.append(l);}
+function render(){const q=$('search').value.toLowerCase();$('cards').replaceChildren();for(const row of rows){if(q&&!columns.some(c=>row[c].toLowerCase().includes(q)))continue;const a=document.createElement('article'),meta=document.createElement('div');meta.className='meta';field(meta,'ID','id',row,'small');field(meta,'Type','type',row,'small');field(meta,'Short source','source',row,'small');field(meta,'Source URL','source_url',row,'url');const enabled=document.createElement('label');enabled.textContent='Enabled';const check=document.createElement('input');check.type='checkbox';check.checked=row.enabled==='1';check.onchange=()=>{row.enabled=check.checked?'1':'0';changed();};enabled.append(check);meta.append(enabled);const del=document.createElement('button');del.textContent='Remove';del.className='danger';del.onclick=()=>{if(confirm('Remove joke '+row.id+' from this edited copy?')){rows=rows.filter(r=>r!==row);changed();render();}};meta.append(del);const text=document.createElement('textarea');text.value=row.text;text.setAttribute('aria-label','Joke '+row.id);text.oninput=()=>{row.text=text.value;changed();};a.append(meta,text);$('cards').append(a);}status();}
+$('file').onchange=async e=>{const f=e.target.files[0];if(!f)return;if(dirty&&!confirm('Discard unsaved edits and open another file?')){e.target.value='';return;}try{const candidate=parseCSV(await f.text());validate(candidate);rows=candidate;loaded=true;dirty=false;$('add').disabled=false;$('save').disabled=false;$('search').value='';render();}catch(err){alert(err.message);}e.target.value='';};
+$('search').oninput=render;
+$('add').onclick=()=>{rows.unshift({id:String(Math.max(0,...rows.map(r=>Number(r.id)||0))+1),type:'general',text:'',source:'',source_url:'',enabled:'1'});$('search').value='';changed();render();$('cards textarea').focus();};
+$('save').onclick=()=>{try{validate(rows);const url=URL.createObjectURL(new Blob([csv(rows)],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='statafun_jokes.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),10000);dirty=false;status();$('status').textContent+=' · Download started. Replace your working CSV with the downloaded file.';}catch(err){alert(err.message);}};
+window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue='';}});
+</script></body></html>
