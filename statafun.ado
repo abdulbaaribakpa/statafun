@@ -1,4 +1,4 @@
-*! version 0.3.0 01oct2026
+*! version 0.3.1 01oct2026
 program define statafun, rclass
     version 16.0
     syntax [, TYPE(string) ID(integer 0) SOURCE ANSWER CATEGORIES BANK USING(string)]

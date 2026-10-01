@@ -1,5 +1,5 @@
 v 3
-d statafun 0.3.0 - Offline jokes, anagrams, and riddles
+d statafun 0.3.1 - Offline jokes, anagrams, and riddles
 d Requires Stata 16 or newer
 d Distribution-Date: 20261001
 f statafun.ado
