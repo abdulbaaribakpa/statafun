@@ -1,3 +1,3 @@
 v 3
-d statafun: Offline jokes for Stata
-p statafun Editable offline joke bank
+d statafun: Offline jokes, anagrams, and riddles for Stata
+p statafun A small offline break for Stata sessions

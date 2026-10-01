@@ -16,16 +16,35 @@ statafun, bank
 confirm file `"`r(bank)'"'
 statafun, id(5) source
 assert r(id) == 5
-assert r(N) == 200
+assert r(N) == 385
 assert `"`r(source)'"' == "OJA"
 assert `"`r(source_url)'"' == "https://github.com/15Dkatz/official_joke_api"
-statafun, type(PROGRAMMING)
-assert r(N) == 40
-assert `"`r(type)'"' == "programming"
-statafun, type(pun)
-assert r(N) == 30
-statafun, categories
+statafun, type(JOKE)
 assert r(N) == 200
+assert `"`r(type)'"' == "joke"
+statafun, id(201)
+assert r(id) == 201
+assert `"`r(type)'"' == "anagram"
+assert `"`r(text)'"' == "Cave rain"
+assert `"`r(answer)'"' == "Variance"
+statafun, id(201) answer
+assert `"`r(answer)'"' == "Variance"
+statafun, type(anagram)
+assert r(N) == 85
+assert `"`r(type)'"' == "anagram"
+assert trim(`"`r(answer)'"') != ""
+statafun, id(286)
+assert r(id) == 286
+assert `"`r(type)'"' == "riddle"
+assert `"`r(answer)'"' == "Keyboard"
+statafun, id(286) answer
+assert `"`r(answer)'"' == "Keyboard"
+statafun, type(riddle)
+assert r(N) == 100
+assert `"`r(type)'"' == "riddle"
+assert trim(`"`r(answer)'"') != ""
+statafun, categories
+assert r(N) == 385
 
 local first_id = 0
 local different = 0
@@ -41,7 +60,7 @@ capture noisily statafun, id(999999)
 assert _rc == 2000
 capture noisily statafun, type(unknown_type)
 assert _rc == 2000
-capture noisily statafun, id(5) type(pun)
+capture noisily statafun, id(201) type(joke)
 assert _rc == 2000
 capture noisily statafun, using("tests/no_such_file.csv")
 assert _rc == 601
@@ -52,6 +71,7 @@ assert r(id) == 901
 assert r(N) == 1
 assert `"`r(source)'"' == "CUSTOM"
 assert `"`r(source_url)'"' == "https://example.org/source"
+assert `"`r(answer)'"' == ""
 mata: assert(strpos(st_global("r(text)"), char(36) + "STATAFUN_TEST_SENTINEL") > 0)
 mata: assert(strpos(st_global("r(text)"), char(96) + "unexpanded" + char(39)) > 0)
 mata: assert(strpos(st_global("r(text)"), char(10) + "Second line") > 0)
@@ -64,6 +84,10 @@ assert _rc == 198
 capture noisily statafun, using("tests/fixtures/empty.csv")
 assert _rc == 2000
 capture noisily statafun, using("tests/fixtures/bad_enabled.csv")
+assert _rc == 198
+capture noisily statafun, using("tests/fixtures/bad_anagram.csv")
+assert _rc == 198
+capture noisily statafun, using("tests/fixtures/bad_riddle.csv")
 assert _rc == 198
 
 assert c(frame) == "`frame_before'"

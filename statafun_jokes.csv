@@ -1,201 +1,386 @@
-id,type,text,source,source_url,enabled
-1,programming,"A SQL query walks into a bar, walks up to two tables and asks... — 'Can I join you?'",OJA,https://github.com/15Dkatz/official_joke_api,1
-2,programming,Why did the programmer bring a ladder to work? — They heard the code needed to be debugged from a higher level.,OJA,https://github.com/15Dkatz/official_joke_api,1
-3,programming,What's the object-oriented way to become wealthy? — Inheritance,OJA,https://github.com/15Dkatz/official_joke_api,1
-4,programming,Why did the programmer quit his job? — Because he didn't get arrays.,OJA,https://github.com/15Dkatz/official_joke_api,1
-5,programming,"A programmer puts two glasses on his bedside table before going to sleep. — A full one, in case he gets thirsty, and an empty one, in case he doesn’t.",OJA,https://github.com/15Dkatz/official_joke_api,1
-6,programming,"3 SQL statements walk into a NoSQL bar. Soon, they walk out — They couldn't find a table.",OJA,https://github.com/15Dkatz/official_joke_api,1
-7,programming,What’s the object-oriented way to become wealthy? — Inheritance.,OJA,https://github.com/15Dkatz/official_joke_api,1
-8,programming,Why did the functions stop calling each other? — Because they had constant arguments.,OJA,https://github.com/15Dkatz/official_joke_api,1
-9,programming,Why did the programmer go to art school? — He wanted to learn how to code outside the box.,OJA,https://github.com/15Dkatz/official_joke_api,1
-10,programming,Why do programmers prefer dark chocolate? — Because it's bitter like their code.,OJA,https://github.com/15Dkatz/official_joke_api,1
-11,programming,Why did the programmer go broke? — He used up all his cache,OJA,https://github.com/15Dkatz/official_joke_api,1
-12,programming,Why don't programmers like nature? — There's too many bugs.,OJA,https://github.com/15Dkatz/official_joke_api,1
-13,programming,Why did the programmer quit their job? — They didn't get arrays.,OJA,https://github.com/15Dkatz/official_joke_api,1
-14,programming,Why don't programmers like nature? — Too many bugs.,OJA,https://github.com/15Dkatz/official_joke_api,1
-15,programming,Why did the programmer bring a broom to work? — To clean up all the bugs.,OJA,https://github.com/15Dkatz/official_joke_api,1
-16,programming,"What's the best thing about a Boolean? — Even if you're wrong, you're only off by a bit.",OJA,https://github.com/15Dkatz/official_joke_api,1
-17,programming,Where do programmers like to hangout? — The Foo Bar.,OJA,https://github.com/15Dkatz/official_joke_api,1
-18,programming,How many programmers does it take to change a lightbulb? — None that's a hardware problem,OJA,https://github.com/15Dkatz/official_joke_api,1
-19,programming,"['hip', 'hip'] — (hip hip array)",OJA,https://github.com/15Dkatz/official_joke_api,1
-20,programming,To understand what recursion is... — You must first understand what recursion is,OJA,https://github.com/15Dkatz/official_joke_api,1
-21,programming,There are 10 types of people in this world... — Those who understand binary and those who don't,OJA,https://github.com/15Dkatz/official_joke_api,1
-22,programming,Which song would an exception sing? — Can't catch me - Avicii,OJA,https://github.com/15Dkatz/official_joke_api,1
-23,programming,Lady: How do I spread love in this cruel world? — Random Dude: [...💘],OJA,https://github.com/15Dkatz/official_joke_api,1
-24,programming,What is the most used language in programming? — Profanity.,OJA,https://github.com/15Dkatz/official_joke_api,1
-25,programming,Why do programmers always get Christmas and Halloween mixed up? — Because DEC 25 = OCT 31,OJA,https://github.com/15Dkatz/official_joke_api,1
-26,programming,How do you generate a random string? — Put a Windows user in front of Vim and tell them to exit.,OJA,https://github.com/15Dkatz/official_joke_api,1
-27,programming,Why did the developer quit his job? — Because he didn't get arrays.,OJA,https://github.com/15Dkatz/official_joke_api,1
-28,programming,Why did the programmer's wife leave him? — He didn't know how to commit.,OJA,https://github.com/15Dkatz/official_joke_api,1
-29,programming,Why did the programmer always mix up Halloween and Christmas? — Because Oct 31 equals Dec 25.,OJA,https://github.com/15Dkatz/official_joke_api,1
-30,programming,Why did the developer go broke? — They kept spending all their cache.,OJA,https://github.com/15Dkatz/official_joke_api,1
-31,programming,Why did the developer go to therapy? — They had too many unresolved issues.,OJA,https://github.com/15Dkatz/official_joke_api,1
-32,programming,A user interface is like a joke. — If you have to explain it then it is not that good.,OJA,https://github.com/15Dkatz/official_joke_api,1
-33,programming,Knock-knock. — A race condition. Who is there?,OJA,https://github.com/15Dkatz/official_joke_api,1
-34,programming,What goes after USA? — USB.,OJA,https://github.com/15Dkatz/official_joke_api,1
-35,programming,Where did the API go to eat? — To the RESTaurant.,OJA,https://github.com/15Dkatz/official_joke_api,1
-36,programming,Why did the private classes break up? — Because they never saw each other.,OJA,https://github.com/15Dkatz/official_joke_api,1
-37,programming,Why did the developer go broke buying Bitcoin? — He kept calling it bytecoin and didn't get any.,OJA,https://github.com/15Dkatz/official_joke_api,1
-38,programming,What do you call a computer mouse that swears a lot? — A cursor!,OJA,https://github.com/15Dkatz/official_joke_api,1
-39,programming,Why would a guitarist become a good programmer? — He's adept at riffing in C#.,OJA,https://github.com/15Dkatz/official_joke_api,1
-40,programming,What did the Java code say to the C code? — You've got no class.,OJA,https://github.com/15Dkatz/official_joke_api,1
-41,research,I can't tell if i like this blender... — It keeps giving me mixed results.,OJA,https://github.com/15Dkatz/official_joke_api,1
-42,research,"How many hipsters does it take to change a lightbulb? — Oh, it's a really obscure number. You've probably never heard of it.",OJA,https://github.com/15Dkatz/official_joke_api,1
-43,research,Why didn't the number 4 get into the nightclub? — Because he is 2 square.,OJA,https://github.com/15Dkatz/official_joke_api,1
-44,research,Why do mathematicians hate the U.S.? — Because it's indivisible.,OJA,https://github.com/15Dkatz/official_joke_api,1
-45,research,Why do valley girls hang out in odd numbered groups? — Because they can't even.,OJA,https://github.com/15Dkatz/official_joke_api,1
-46,research,How do you make the number one disappear? — Add the letter G and it’s “gone”!,OJA,https://github.com/15Dkatz/official_joke_api,1
-47,research,What does the mermaid wear to math class? — Algae-bra.,OJA,https://github.com/15Dkatz/official_joke_api,1
-48,research,While I was sleeping my friends decided to write math equations on me. — You should have seen the expression on my face when I woke up.,OJA,https://github.com/15Dkatz/official_joke_api,1
-49,research,Why did the math book look sad? — Because it had too many problems.,OJA,https://github.com/15Dkatz/official_joke_api,1
-50,research,What did the fish say when it hit the wall? — Dam.,OJA,https://github.com/15Dkatz/official_joke_api,1
-51,research,How do you make a tissue dance? — You put a little boogie on it.,OJA,https://github.com/15Dkatz/official_joke_api,1
-52,research,What's Forrest Gump's password? — 1Forrest1,OJA,https://github.com/15Dkatz/official_joke_api,1
-53,research,What do you call a belt made out of watches? — A waist of time.,OJA,https://github.com/15Dkatz/official_joke_api,1
-54,research,Why can't bicycles stand on their own? — They are two tired,OJA,https://github.com/15Dkatz/official_joke_api,1
-55,research,"How does a train eat? — It goes chew, chew",OJA,https://github.com/15Dkatz/official_joke_api,1
-56,research,What do you call a singing Laptop? — A Dell,OJA,https://github.com/15Dkatz/official_joke_api,1
-57,research,How many lips does a flower have? — Tulips,OJA,https://github.com/15Dkatz/official_joke_api,1
-58,research,What kind of shoes does a thief wear? — Sneakers,OJA,https://github.com/15Dkatz/official_joke_api,1
-59,research,What's the best time to go to the dentist? — Tooth hurty.,OJA,https://github.com/15Dkatz/official_joke_api,1
-60,research,Knock knock. Who's there? A broken pencil. A broken pencil who? — Never mind. It's pointless.,OJA,https://github.com/15Dkatz/official_joke_api,1
-61,research,"Knock knock. Who's there? Cows go. Cows go who? — No, cows go moo.",OJA,https://github.com/15Dkatz/official_joke_api,1
-62,research,Knock knock. Who's there? Little old lady. Little old lady who? — I didn't know you could yodel!,OJA,https://github.com/15Dkatz/official_joke_api,1
-63,research,Did you hear about the two silk worms in a race? — It ended in a tie.,OJA,https://github.com/15Dkatz/official_joke_api,1
-64,research,What do you call a laughing motorcycle? — A Yamahahahaha.,OJA,https://github.com/15Dkatz/official_joke_api,1
-65,research,A termite walks into a bar and says... — 'Where is the bar tended?',OJA,https://github.com/15Dkatz/official_joke_api,1
-66,research,What does C.S. Lewis keep at the back of his wardrobe? — Narnia business!,OJA,https://github.com/15Dkatz/official_joke_api,1
-67,research,What did the duck say when he bought lipstick? — Put it on my bill,OJA,https://github.com/15Dkatz/official_joke_api,1
-68,research,What happens to a frog's car when it breaks down? — It gets toad away,OJA,https://github.com/15Dkatz/official_joke_api,1
-69,research,did you know the first French fries weren't cooked in France? — they were cooked in Greece,OJA,https://github.com/15Dkatz/official_joke_api,1
-70,research,Knock knock. Who's there? Opportunity. — That is impossible. Opportunity doesn’t come knocking twice!,OJA,https://github.com/15Dkatz/official_joke_api,1
-71,pun,Why did the mushroom get invited to the party? — Because he was a fungi.,OJA,https://github.com/15Dkatz/official_joke_api,1
-72,pun,"A ham sandwhich walks into a bar and orders a beer. The bartender says... — I'm sorry, we don't serve food here",OJA,https://github.com/15Dkatz/official_joke_api,1
-73,pun,Why did the Clydesdale give the pony a glass of water? — Because he was a little horse,OJA,https://github.com/15Dkatz/official_joke_api,1
-74,pun,What do you call a factory that sells passable products? — A satisfactory,OJA,https://github.com/15Dkatz/official_joke_api,1
-75,pun,Why did the invisible man turn down the job offer? — He couldn't see himself doing it,OJA,https://github.com/15Dkatz/official_joke_api,1
-76,pun,How do you make holy water? — You boil the hell out of it,OJA,https://github.com/15Dkatz/official_joke_api,1
-77,pun,What do you call a cow with no legs? — Ground beef!,OJA,https://github.com/15Dkatz/official_joke_api,1
-78,pun,Knock knock. Who's there? Hatch. Hatch who? — Bless you!,OJA,https://github.com/15Dkatz/official_joke_api,1
-79,pun,What do you call sad coffee? — Despresso.,OJA,https://github.com/15Dkatz/official_joke_api,1
-80,pun,Why did the butcher work extra hours at the shop? — To make ends meat.,OJA,https://github.com/15Dkatz/official_joke_api,1
-81,pun,Did you hear about the chameleon who couldn't change color? — They had a reptile dysfunction.,OJA,https://github.com/15Dkatz/official_joke_api,1
-82,pun,Did you hear about the cow who jumped over the barbed wire fence? — It was udder destruction.,OJA,https://github.com/15Dkatz/official_joke_api,1
-83,pun,Did you hear about the guy who invented Lifesavers? — They say he made a mint.,OJA,https://github.com/15Dkatz/official_joke_api,1
-84,pun,Did you hear about the guy whose whole left side was cut off? — He's all right now.,OJA,https://github.com/15Dkatz/official_joke_api,1
-85,pun,Did you hear about the runner who was criticized? — He just took it in stride,OJA,https://github.com/15Dkatz/official_joke_api,1
-86,pun,Did you hear about the scientist who was lab partners with a pot of boiling water? — He had a very esteemed colleague.,OJA,https://github.com/15Dkatz/official_joke_api,1
-87,pun,How did the hipster burn the roof of his mouth? — He ate the pizza before it was cool.,OJA,https://github.com/15Dkatz/official_joke_api,1
-88,pun,How do you find Will Smith in the snow? — Look for fresh prints.,OJA,https://github.com/15Dkatz/official_joke_api,1
-89,pun,How do you fix a broken pizza? — With tomato paste.,OJA,https://github.com/15Dkatz/official_joke_api,1
-90,pun,How do you fix a damaged jack-o-lantern? — You use a pumpkin patch.,OJA,https://github.com/15Dkatz/official_joke_api,1
-91,pun,How do you get a baby alien to sleep? — You rocket.,OJA,https://github.com/15Dkatz/official_joke_api,1
-92,pun,How do you get two whales in a car? — Start in England and drive West.,OJA,https://github.com/15Dkatz/official_joke_api,1
-93,pun,How do you know if there’s an elephant under your bed? — Your head hits the ceiling!,OJA,https://github.com/15Dkatz/official_joke_api,1
-94,pun,How do you make a hankie dance? — Put a little boogie in it.,OJA,https://github.com/15Dkatz/official_joke_api,1
-95,pun,How do you organize a space party? — You planet.,OJA,https://github.com/15Dkatz/official_joke_api,1
-96,pun,How do you steal a coat? — You jacket.,OJA,https://github.com/15Dkatz/official_joke_api,1
-97,pun,How do you tell the difference between a crocodile and an alligator? — You will see one later and one in a while.,OJA,https://github.com/15Dkatz/official_joke_api,1
-98,pun,How does a dyslexic poet write? — Inverse.,OJA,https://github.com/15Dkatz/official_joke_api,1
-99,pun,How does a French skeleton say hello? — Bone-jour.,OJA,https://github.com/15Dkatz/official_joke_api,1
-100,pun,How does a penguin build it’s house? — Igloos it together.,OJA,https://github.com/15Dkatz/official_joke_api,1
-101,general,Do you know what the word 'was' was initially? — Before was was was was was is.,OJA,https://github.com/15Dkatz/official_joke_api,1
-102,general,I'm reading a book about anti-gravity... — It's impossible to put down,OJA,https://github.com/15Dkatz/official_joke_api,1
-103,general,"If you're American when you go into the bathroom, and American when you come out, what are you when you're in there? — European",OJA,https://github.com/15Dkatz/official_joke_api,1
-104,general,Want to hear a joke about a piece of paper? — Never mind...it's tearable,OJA,https://github.com/15Dkatz/official_joke_api,1
-105,general,I just watched a documentary about beavers. — It was the best dam show I ever saw,OJA,https://github.com/15Dkatz/official_joke_api,1
-106,general,If you see a robbery at an Apple Store... — Does that make you an iWitness?,OJA,https://github.com/15Dkatz/official_joke_api,1
-107,general,If you boil a clown... — Do you get a laughing stock?,OJA,https://github.com/15Dkatz/official_joke_api,1
-108,general,Finally realized why my plant sits around doing nothing all day... — He loves his pot.,OJA,https://github.com/15Dkatz/official_joke_api,1
-109,general,Don't look at the eclipse through a colander. — You'll strain your eyes.,OJA,https://github.com/15Dkatz/official_joke_api,1
-110,general,"Why do chicken coops only have two doors? — Because if they had four, they would be chicken sedans",OJA,https://github.com/15Dkatz/official_joke_api,1
-111,general,"When a dad drives past a graveyard: Did you know that's a popular cemetery? — Yep, people are just dying to get in there",OJA,https://github.com/15Dkatz/official_joke_api,1
-112,general,I had a dream that I was a muffler last night. — I woke up exhausted!,OJA,https://github.com/15Dkatz/official_joke_api,1
-113,general,Why is peter pan always flying? — Because he neverlands,OJA,https://github.com/15Dkatz/official_joke_api,1
-114,general,"I dropped a pear in my car this morning. — You should drop another one, then you would have a pair.",OJA,https://github.com/15Dkatz/official_joke_api,1
-115,general,Did you hear about the hungry clock? — It went back four seconds.,OJA,https://github.com/15Dkatz/official_joke_api,1
-116,general,Well... — That’s a deep subject.,OJA,https://github.com/15Dkatz/official_joke_api,1
-117,general,Did you hear the story about the cheese that saved the world? — It was legend dairy.,OJA,https://github.com/15Dkatz/official_joke_api,1
-118,general,Did you watch the new comic book movie? — It was very graphic!,OJA,https://github.com/15Dkatz/official_joke_api,1
-119,general,I started a new business making yachts in my attic this year... — The sails are going through the roof.,OJA,https://github.com/15Dkatz/official_joke_api,1
-120,general,"I got hit in the head by a soda can, but it didn't hurt that much... — It was a soft drink.",OJA,https://github.com/15Dkatz/official_joke_api,1
-121,general,I couldn't get a reservation at the library... — They were fully booked.,OJA,https://github.com/15Dkatz/official_joke_api,1
-122,general,What do you give to a lemon in need? — Lemonaid.,OJA,https://github.com/15Dkatz/official_joke_api,1
-123,general,Never take advice from electrons. — They are always negative.,OJA,https://github.com/15Dkatz/official_joke_api,1
-124,general,"Hey, dad, did you get a haircut? — No, I got them all cut.",OJA,https://github.com/15Dkatz/official_joke_api,1
-125,general,What time is it? — I don't know... it keeps changing.,OJA,https://github.com/15Dkatz/official_joke_api,1
-126,general,"A weasel walks into a bar. The bartender says, ""Wow, I've never served a weasel before. What can I get for you?"" — Pop,goes the weasel.",OJA,https://github.com/15Dkatz/official_joke_api,1
-127,general,Bad at golf? — Join the club.,OJA,https://github.com/15Dkatz/official_joke_api,1
-128,general,Can a kangaroo jump higher than the Empire State Building? — Of course. The Empire State Building can't jump.,OJA,https://github.com/15Dkatz/official_joke_api,1
-129,general,"Can February march? — No, but April may.",OJA,https://github.com/15Dkatz/official_joke_api,1
-130,general,"Can I watch the TV? — Yes, but don’t turn it on.",OJA,https://github.com/15Dkatz/official_joke_api,1
-131,general,"Dad, can you put my shoes on? — I don't think they'll fit me.",OJA,https://github.com/15Dkatz/official_joke_api,1
-132,general,Did you hear about the bread factory burning down? — They say the business is toast.,OJA,https://github.com/15Dkatz/official_joke_api,1
-133,general,Did you hear about the cheese factory that exploded in France? — There was nothing left but de Brie.,OJA,https://github.com/15Dkatz/official_joke_api,1
-134,general,"Did you hear about the kidnapping at school? — It's ok, he woke up.",OJA,https://github.com/15Dkatz/official_joke_api,1
-135,general,"Did you hear about the new restaurant on the moon? — The food is great, but there’s just no atmosphere.",OJA,https://github.com/15Dkatz/official_joke_api,1
-136,general,Did you hear about the submarine industry? — It really took a dive...,OJA,https://github.com/15Dkatz/official_joke_api,1
-137,general,Did you hear that David lost his ID in prague? — Now we just have to call him Dav.,OJA,https://github.com/15Dkatz/official_joke_api,1
-138,general,"Did you hear that the police have a warrant out on a midget psychic ripping people off? — It reads ""Small medium at large.""",OJA,https://github.com/15Dkatz/official_joke_api,1
-139,general,Did you hear the joke about the wandering nun? — She was a roman catholic.,OJA,https://github.com/15Dkatz/official_joke_api,1
-140,general,Did you hear the news? — FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.,OJA,https://github.com/15Dkatz/official_joke_api,1
-141,general,Did you hear the one about the guy with the broken hearing aid? — Neither did he.,OJA,https://github.com/15Dkatz/official_joke_api,1
-142,general,Did you know crocodiles could grow up to 15 feet? — But most just have 4.,OJA,https://github.com/15Dkatz/official_joke_api,1
-143,general,What do ghosts call their true love? — Their ghoul-friend,OJA,https://github.com/15Dkatz/official_joke_api,1
-144,general,Did you know that protons have mass? — I didn't even know they were catholic.,OJA,https://github.com/15Dkatz/official_joke_api,1
-145,general,Did you know you should always take an extra pair of pants golfing? — Just in case you get a hole in one.,OJA,https://github.com/15Dkatz/official_joke_api,1
-146,general,Do I enjoy making courthouse puns? — Guilty,OJA,https://github.com/15Dkatz/official_joke_api,1
-147,general,Do you know where you can get chicken broth in bulk? — The stock market.,OJA,https://github.com/15Dkatz/official_joke_api,1
-148,general,"Do you want a brief explanation of what an acorn is? — In a nutshell, it's an oak tree.",OJA,https://github.com/15Dkatz/official_joke_api,1
-149,general,Ever wondered why bees hum? — It's because they don't know the words.,OJA,https://github.com/15Dkatz/official_joke_api,1
-150,general,Have you ever heard of a music group called Cellophane? — They mostly wrap.,OJA,https://github.com/15Dkatz/official_joke_api,1
-151,general,Have you heard of the band 1023MB? — They haven't got a gig yet.,OJA,https://github.com/15Dkatz/official_joke_api,1
-152,general,"Have you heard the rumor going around about butter? — Never mind, I shouldn't spread it.",OJA,https://github.com/15Dkatz/official_joke_api,1
-153,general,How are false teeth like stars? — They come out at night!,OJA,https://github.com/15Dkatz/official_joke_api,1
-154,general,How can you tell a vampire has a cold? — They start coffin.,OJA,https://github.com/15Dkatz/official_joke_api,1
-155,general,How come a man driving a train got struck by lightning? — He was a good conductor.,OJA,https://github.com/15Dkatz/official_joke_api,1
-156,general,How come the stadium got hot after the game? — Because all of the fans left.,OJA,https://github.com/15Dkatz/official_joke_api,1
-157,general,How did Darth Vader know what Luke was getting for Christmas? — He felt his presents.,OJA,https://github.com/15Dkatz/official_joke_api,1
-158,general,How do hens stay fit? — They always egg-cercise!,OJA,https://github.com/15Dkatz/official_joke_api,1
-159,general,How do locomotives know where they're going? — Lots of training,OJA,https://github.com/15Dkatz/official_joke_api,1
-160,general,How do the trees get on the internet? — They log on.,OJA,https://github.com/15Dkatz/official_joke_api,1
-161,general,How good are you at Power Point? — I Excel at it.,OJA,https://github.com/15Dkatz/official_joke_api,1
-162,general,How does a scientist freshen their breath? — With experi-mints!,OJA,https://github.com/15Dkatz/official_joke_api,1
-163,general,How does the moon cut his hair? — Eclipse it.,OJA,https://github.com/15Dkatz/official_joke_api,1
-164,general,How many apples grow on a tree? — All of them!,OJA,https://github.com/15Dkatz/official_joke_api,1
-165,general,How many bones are in the human hand? — A handful of them.,OJA,https://github.com/15Dkatz/official_joke_api,1
-166,general,How many kids with ADD does it take to change a lightbulb? — Let's go ride bikes!,OJA,https://github.com/15Dkatz/official_joke_api,1
-167,general,How many optometrists does it take to change a light bulb? — 1 or 2? 1... or 2?,OJA,https://github.com/15Dkatz/official_joke_api,1
-168,general,"How many seconds are in a year? — 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc",OJA,https://github.com/15Dkatz/official_joke_api,1
-169,general,How many tickles does it take to tickle an octopus? — Ten-tickles!,OJA,https://github.com/15Dkatz/official_joke_api,1
-170,general,How much does a hipster weigh? — An instagram.,OJA,https://github.com/15Dkatz/official_joke_api,1
-171,general,How was the snow globe feeling after the storm? — A little shaken.,OJA,https://github.com/15Dkatz/official_joke_api,1
-172,general,Is the pool safe for diving? — It deep ends.,OJA,https://github.com/15Dkatz/official_joke_api,1
-173,general,Is there a hole in your shoe? — No… Then how’d you get your foot in it?,OJA,https://github.com/15Dkatz/official_joke_api,1
-174,general,"What did the spaghetti say to the other spaghetti? — Pasta la vista, baby!",OJA,https://github.com/15Dkatz/official_joke_api,1
-175,general,What’s 50 Cent’s name in Zimbabwe? — 200 Dollars.,OJA,https://github.com/15Dkatz/official_joke_api,1
-176,general,Want to hear a chimney joke? — Got stacks of em! First one's on the house,OJA,https://github.com/15Dkatz/official_joke_api,1
-177,general,"Want to hear a joke about construction? — Nah, I'm still working on it.",OJA,https://github.com/15Dkatz/official_joke_api,1
-178,general,"Want to hear my pizza joke? — Never mind, it's too cheesy.",OJA,https://github.com/15Dkatz/official_joke_api,1
-179,general,What animal is always at a game of cricket? — A bat.,OJA,https://github.com/15Dkatz/official_joke_api,1
-180,general,What are the strongest days of the week? — Saturday and Sunday...the rest are weekdays.,OJA,https://github.com/15Dkatz/official_joke_api,1
-181,general,What biscuit does a short person like? — Shortbread.,OJA,https://github.com/15Dkatz/official_joke_api,1
-182,general,What cheese can never be yours? — Nacho cheese.,OJA,https://github.com/15Dkatz/official_joke_api,1
-183,general,What creature is smarter than a talking parrot? — A spelling bee.,OJA,https://github.com/15Dkatz/official_joke_api,1
-184,general,"What did celery say when he broke up with his girlfriend? — She wasn't right for me, so I really don't carrot all.",OJA,https://github.com/15Dkatz/official_joke_api,1
-185,general,What did Michael Jackson name his denim store? — Billy Jeans!,OJA,https://github.com/15Dkatz/official_joke_api,1
-186,general,What did one nut say as he chased another nut? — I'm a cashew!,OJA,https://github.com/15Dkatz/official_joke_api,1
-187,general,What did one plate say to the other plate? — Dinner is on me!,OJA,https://github.com/15Dkatz/official_joke_api,1
-188,general,What did one snowman say to the other snow man? — Do you smell carrot?,OJA,https://github.com/15Dkatz/official_joke_api,1
-189,general,What did one wall say to the other wall? — I'll meet you at the corner!,OJA,https://github.com/15Dkatz/official_joke_api,1
-190,general,What did Romans use to cut pizza before the rolling cutter was invented? — Lil Caesars,OJA,https://github.com/15Dkatz/official_joke_api,1
-191,general,What did the 0 say to the 8? — Nice belt.,OJA,https://github.com/15Dkatz/official_joke_api,1
-192,general,What did the beaver say to the tree? — It's been nice gnawing you.,OJA,https://github.com/15Dkatz/official_joke_api,1
-193,general,"What did the big flower say to the littler flower? — Hi, bud!",OJA,https://github.com/15Dkatz/official_joke_api,1
-194,general,What did the Buffalo say to his little boy when he dropped him off at school? — Bison.,OJA,https://github.com/15Dkatz/official_joke_api,1
-195,general,"What did the digital clock say to the grandfather clock? — Look, no hands!",OJA,https://github.com/15Dkatz/official_joke_api,1
-196,general,What did the dog say to the two trees? — Bark bark.,OJA,https://github.com/15Dkatz/official_joke_api,1
-197,general,What did the Dorito farmer say to the other Dorito farmer? — Cool Ranch!,OJA,https://github.com/15Dkatz/official_joke_api,1
-198,general,What did the fish say when it swam into a wall? — Damn!,OJA,https://github.com/15Dkatz/official_joke_api,1
-199,general,"What did the judge say to the dentist? — Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",OJA,https://github.com/15Dkatz/official_joke_api,1
-200,general,What did the late tomato say to the early tomato? — I’ll ketch up,OJA,https://github.com/15Dkatz/official_joke_api,1
+"id","type","text","answer","source","source_url","enabled"
+"1","joke","A SQL query walks into a bar, walks up to two tables and asks... — 'Can I join you?'","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"2","joke","Why did the programmer bring a ladder to work? — They heard the code needed to be debugged from a higher level.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"3","joke","What's the object-oriented way to become wealthy? — Inheritance","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"4","joke","Why did the programmer quit his job? — Because he didn't get arrays.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"5","joke","A programmer puts two glasses on his bedside table before going to sleep. — A full one, in case he gets thirsty, and an empty one, in case he doesn’t.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"6","joke","3 SQL statements walk into a NoSQL bar. Soon, they walk out — They couldn't find a table.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"7","joke","What’s the object-oriented way to become wealthy? — Inheritance.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"8","joke","Why did the functions stop calling each other? — Because they had constant arguments.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"9","joke","Why did the programmer go to art school? — He wanted to learn how to code outside the box.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"10","joke","Why do programmers prefer dark chocolate? — Because it's bitter like their code.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"11","joke","Why did the programmer go broke? — He used up all his cache","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"12","joke","Why don't programmers like nature? — There's too many bugs.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"13","joke","Why did the programmer quit their job? — They didn't get arrays.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"14","joke","Why don't programmers like nature? — Too many bugs.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"15","joke","Why did the programmer bring a broom to work? — To clean up all the bugs.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"16","joke","What's the best thing about a Boolean? — Even if you're wrong, you're only off by a bit.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"17","joke","Where do programmers like to hangout? — The Foo Bar.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"18","joke","How many programmers does it take to change a lightbulb? — None that's a hardware problem","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"19","joke","['hip', 'hip'] — (hip hip array)","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"20","joke","To understand what recursion is... — You must first understand what recursion is","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"21","joke","There are 10 types of people in this world... — Those who understand binary and those who don't","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"22","joke","Which song would an exception sing? — Can't catch me - Avicii","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"23","joke","Lady: How do I spread love in this cruel world? — Random Dude: [...💘]","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"24","joke","What is the most used language in programming? — Profanity.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"25","joke","Why do programmers always get Christmas and Halloween mixed up? — Because DEC 25 = OCT 31","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"26","joke","How do you generate a random string? — Put a Windows user in front of Vim and tell them to exit.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"27","joke","Why did the developer quit his job? — Because he didn't get arrays.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"28","joke","Why did the programmer's wife leave him? — He didn't know how to commit.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"29","joke","Why did the programmer always mix up Halloween and Christmas? — Because Oct 31 equals Dec 25.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"30","joke","Why did the developer go broke? — They kept spending all their cache.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"31","joke","Why did the developer go to therapy? — They had too many unresolved issues.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"32","joke","A user interface is like a joke. — If you have to explain it then it is not that good.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"33","joke","Knock-knock. — A race condition. Who is there?","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"34","joke","What goes after USA? — USB.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"35","joke","Where did the API go to eat? — To the RESTaurant.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"36","joke","Why did the private classes break up? — Because they never saw each other.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"37","joke","Why did the developer go broke buying Bitcoin? — He kept calling it bytecoin and didn't get any.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"38","joke","What do you call a computer mouse that swears a lot? — A cursor!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"39","joke","Why would a guitarist become a good programmer? — He's adept at riffing in C#.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"40","joke","What did the Java code say to the C code? — You've got no class.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"41","joke","I can't tell if i like this blender... — It keeps giving me mixed results.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"42","joke","How many hipsters does it take to change a lightbulb? — Oh, it's a really obscure number. You've probably never heard of it.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"43","joke","Why didn't the number 4 get into the nightclub? — Because he is 2 square.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"44","joke","Why do mathematicians hate the U.S.? — Because it's indivisible.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"45","joke","Why do valley girls hang out in odd numbered groups? — Because they can't even.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"46","joke","How do you make the number one disappear? — Add the letter G and it’s “gone”!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"47","joke","What does the mermaid wear to math class? — Algae-bra.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"48","joke","While I was sleeping my friends decided to write math equations on me. — You should have seen the expression on my face when I woke up.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"49","joke","Why did the math book look sad? — Because it had too many problems.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"50","joke","What did the fish say when it hit the wall? — Dam.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"51","joke","How do you make a tissue dance? — You put a little boogie on it.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"52","joke","What's Forrest Gump's password? — 1Forrest1","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"53","joke","What do you call a belt made out of watches? — A waist of time.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"54","joke","Why can't bicycles stand on their own? — They are two tired","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"55","joke","How does a train eat? — It goes chew, chew","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"56","joke","What do you call a singing Laptop? — A Dell","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"57","joke","How many lips does a flower have? — Tulips","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"58","joke","What kind of shoes does a thief wear? — Sneakers","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"59","joke","What's the best time to go to the dentist? — Tooth hurty.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"60","joke","Knock knock. Who's there? A broken pencil. A broken pencil who? — Never mind. It's pointless.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"61","joke","Knock knock. Who's there? Cows go. Cows go who? — No, cows go moo.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"62","joke","Knock knock. Who's there? Little old lady. Little old lady who? — I didn't know you could yodel!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"63","joke","Did you hear about the two silk worms in a race? — It ended in a tie.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"64","joke","What do you call a laughing motorcycle? — A Yamahahahaha.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"65","joke","A termite walks into a bar and says... — 'Where is the bar tended?'","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"66","joke","What does C.S. Lewis keep at the back of his wardrobe? — Narnia business!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"67","joke","What did the duck say when he bought lipstick? — Put it on my bill","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"68","joke","What happens to a frog's car when it breaks down? — It gets toad away","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"69","joke","did you know the first French fries weren't cooked in France? — they were cooked in Greece","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"70","joke","Knock knock. Who's there? Opportunity. — That is impossible. Opportunity doesn’t come knocking twice!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"71","joke","Why did the mushroom get invited to the party? — Because he was a fungi.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"72","joke","A ham sandwhich walks into a bar and orders a beer. The bartender says... — I'm sorry, we don't serve food here","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"73","joke","Why did the Clydesdale give the pony a glass of water? — Because he was a little horse","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"74","joke","What do you call a factory that sells passable products? — A satisfactory","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"75","joke","Why did the invisible man turn down the job offer? — He couldn't see himself doing it","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"76","joke","How do you make holy water? — You boil the hell out of it","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"77","joke","What do you call a cow with no legs? — Ground beef!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"78","joke","Knock knock. Who's there? Hatch. Hatch who? — Bless you!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"79","joke","What do you call sad coffee? — Despresso.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"80","joke","Why did the butcher work extra hours at the shop? — To make ends meat.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"81","joke","Did you hear about the chameleon who couldn't change color? — They had a reptile dysfunction.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"82","joke","Did you hear about the cow who jumped over the barbed wire fence? — It was udder destruction.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"83","joke","Did you hear about the guy who invented Lifesavers? — They say he made a mint.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"84","joke","Did you hear about the guy whose whole left side was cut off? — He's all right now.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"85","joke","Did you hear about the runner who was criticized? — He just took it in stride","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"86","joke","Did you hear about the scientist who was lab partners with a pot of boiling water? — He had a very esteemed colleague.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"87","joke","How did the hipster burn the roof of his mouth? — He ate the pizza before it was cool.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"88","joke","How do you find Will Smith in the snow? — Look for fresh prints.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"89","joke","How do you fix a broken pizza? — With tomato paste.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"90","joke","How do you fix a damaged jack-o-lantern? — You use a pumpkin patch.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"91","joke","How do you get a baby alien to sleep? — You rocket.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"92","joke","How do you get two whales in a car? — Start in England and drive West.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"93","joke","How do you know if there’s an elephant under your bed? — Your head hits the ceiling!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"94","joke","How do you make a hankie dance? — Put a little boogie in it.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"95","joke","How do you organize a space party? — You planet.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"96","joke","How do you steal a coat? — You jacket.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"97","joke","How do you tell the difference between a crocodile and an alligator? — You will see one later and one in a while.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"98","joke","How does a dyslexic poet write? — Inverse.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"99","joke","How does a French skeleton say hello? — Bone-jour.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"100","joke","How does a penguin build it’s house? — Igloos it together.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"101","joke","Do you know what the word 'was' was initially? — Before was was was was was is.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"102","joke","I'm reading a book about anti-gravity... — It's impossible to put down","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"103","joke","If you're American when you go into the bathroom, and American when you come out, what are you when you're in there? — European","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"104","joke","Want to hear a joke about a piece of paper? — Never mind...it's tearable","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"105","joke","I just watched a documentary about beavers. — It was the best dam show I ever saw","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"106","joke","If you see a robbery at an Apple Store... — Does that make you an iWitness?","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"107","joke","If you boil a clown... — Do you get a laughing stock?","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"108","joke","Finally realized why my plant sits around doing nothing all day... — He loves his pot.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"109","joke","Don't look at the eclipse through a colander. — You'll strain your eyes.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"110","joke","Why do chicken coops only have two doors? — Because if they had four, they would be chicken sedans","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"111","joke","When a dad drives past a graveyard: Did you know that's a popular cemetery? — Yep, people are just dying to get in there","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"112","joke","I had a dream that I was a muffler last night. — I woke up exhausted!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"113","joke","Why is peter pan always flying? — Because he neverlands","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"114","joke","I dropped a pear in my car this morning. — You should drop another one, then you would have a pair.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"115","joke","Did you hear about the hungry clock? — It went back four seconds.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"116","joke","Well... — That’s a deep subject.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"117","joke","Did you hear the story about the cheese that saved the world? — It was legend dairy.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"118","joke","Did you watch the new comic book movie? — It was very graphic!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"119","joke","I started a new business making yachts in my attic this year... — The sails are going through the roof.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"120","joke","I got hit in the head by a soda can, but it didn't hurt that much... — It was a soft drink.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"121","joke","I couldn't get a reservation at the library... — They were fully booked.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"122","joke","What do you give to a lemon in need? — Lemonaid.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"123","joke","Never take advice from electrons. — They are always negative.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"124","joke","Hey, dad, did you get a haircut? — No, I got them all cut.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"125","joke","What time is it? — I don't know... it keeps changing.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"126","joke","A weasel walks into a bar. The bartender says, ""Wow, I've never served a weasel before. What can I get for you?"" — Pop,goes the weasel.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"127","joke","Bad at golf? — Join the club.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"128","joke","Can a kangaroo jump higher than the Empire State Building? — Of course. The Empire State Building can't jump.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"129","joke","Can February march? — No, but April may.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"130","joke","Can I watch the TV? — Yes, but don’t turn it on.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"131","joke","Dad, can you put my shoes on? — I don't think they'll fit me.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"132","joke","Did you hear about the bread factory burning down? — They say the business is toast.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"133","joke","Did you hear about the cheese factory that exploded in France? — There was nothing left but de Brie.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"134","joke","Did you hear about the kidnapping at school? — It's ok, he woke up.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"135","joke","Did you hear about the new restaurant on the moon? — The food is great, but there’s just no atmosphere.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"136","joke","Did you hear about the submarine industry? — It really took a dive...","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"137","joke","Did you hear that David lost his ID in prague? — Now we just have to call him Dav.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"138","joke","Did you hear that the police have a warrant out on a midget psychic ripping people off? — It reads ""Small medium at large.""","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"139","joke","Did you hear the joke about the wandering nun? — She was a roman catholic.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"140","joke","Did you hear the news? — FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"141","joke","Did you hear the one about the guy with the broken hearing aid? — Neither did he.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"142","joke","Did you know crocodiles could grow up to 15 feet? — But most just have 4.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"143","joke","What do ghosts call their true love? — Their ghoul-friend","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"144","joke","Did you know that protons have mass? — I didn't even know they were catholic.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"145","joke","Did you know you should always take an extra pair of pants golfing? — Just in case you get a hole in one.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"146","joke","Do I enjoy making courthouse puns? — Guilty","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"147","joke","Do you know where you can get chicken broth in bulk? — The stock market.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"148","joke","Do you want a brief explanation of what an acorn is? — In a nutshell, it's an oak tree.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"149","joke","Ever wondered why bees hum? — It's because they don't know the words.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"150","joke","Have you ever heard of a music group called Cellophane? — They mostly wrap.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"151","joke","Have you heard of the band 1023MB? — They haven't got a gig yet.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"152","joke","Have you heard the rumor going around about butter? — Never mind, I shouldn't spread it.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"153","joke","How are false teeth like stars? — They come out at night!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"154","joke","How can you tell a vampire has a cold? — They start coffin.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"155","joke","How come a man driving a train got struck by lightning? — He was a good conductor.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"156","joke","How come the stadium got hot after the game? — Because all of the fans left.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"157","joke","How did Darth Vader know what Luke was getting for Christmas? — He felt his presents.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"158","joke","How do hens stay fit? — They always egg-cercise!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"159","joke","How do locomotives know where they're going? — Lots of training","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"160","joke","How do the trees get on the internet? — They log on.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"161","joke","How good are you at Power Point? — I Excel at it.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"162","joke","How does a scientist freshen their breath? — With experi-mints!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"163","joke","How does the moon cut his hair? — Eclipse it.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"164","joke","How many apples grow on a tree? — All of them!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"165","joke","How many bones are in the human hand? — A handful of them.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"166","joke","How many kids with ADD does it take to change a lightbulb? — Let's go ride bikes!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"167","joke","How many optometrists does it take to change a light bulb? — 1 or 2? 1... or 2?","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"168","joke","How many seconds are in a year? — 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"169","joke","How many tickles does it take to tickle an octopus? — Ten-tickles!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"170","joke","How much does a hipster weigh? — An instagram.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"171","joke","How was the snow globe feeling after the storm? — A little shaken.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"172","joke","Is the pool safe for diving? — It deep ends.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"173","joke","Is there a hole in your shoe? — No… Then how’d you get your foot in it?","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"174","joke","What did the spaghetti say to the other spaghetti? — Pasta la vista, baby!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"175","joke","What’s 50 Cent’s name in Zimbabwe? — 200 Dollars.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"176","joke","Want to hear a chimney joke? — Got stacks of em! First one's on the house","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"177","joke","Want to hear a joke about construction? — Nah, I'm still working on it.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"178","joke","Want to hear my pizza joke? — Never mind, it's too cheesy.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"179","joke","What animal is always at a game of cricket? — A bat.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"180","joke","What are the strongest days of the week? — Saturday and Sunday...the rest are weekdays.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"181","joke","What biscuit does a short person like? — Shortbread.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"182","joke","What cheese can never be yours? — Nacho cheese.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"183","joke","What creature is smarter than a talking parrot? — A spelling bee.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"184","joke","What did celery say when he broke up with his girlfriend? — She wasn't right for me, so I really don't carrot all.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"185","joke","What did Michael Jackson name his denim store? — Billy Jeans!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"186","joke","What did one nut say as he chased another nut? — I'm a cashew!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"187","joke","What did one plate say to the other plate? — Dinner is on me!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"188","joke","What did one snowman say to the other snow man? — Do you smell carrot?","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"189","joke","What did one wall say to the other wall? — I'll meet you at the corner!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"190","joke","What did Romans use to cut pizza before the rolling cutter was invented? — Lil Caesars","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"191","joke","What did the 0 say to the 8? — Nice belt.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"192","joke","What did the beaver say to the tree? — It's been nice gnawing you.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"193","joke","What did the big flower say to the littler flower? — Hi, bud!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"194","joke","What did the Buffalo say to his little boy when he dropped him off at school? — Bison.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"195","joke","What did the digital clock say to the grandfather clock? — Look, no hands!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"196","joke","What did the dog say to the two trees? — Bark bark.","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"197","joke","What did the Dorito farmer say to the other Dorito farmer? — Cool Ranch!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"198","joke","What did the fish say when it swam into a wall? — Damn!","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"199","joke","What did the judge say to the dentist? — Do you swear to pull the tooth, the whole tooth and nothing but the tooth?","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"200","joke","What did the late tomato say to the early tomato? — I’ll ketch up","","OJA","https://github.com/15Dkatz/official_joke_api","1"
+"201","anagram","Cave rain","Variance","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"202","anagram","Ocean vicar","Covariance","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"203","anagram","Ogre's reins","Regression","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"204","anagram","Sand sermon","Randomness","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"205","anagram","Triangle","Integral","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"206","anagram","Static sits","Statistics","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"207","anagram","Static tails","Statistical","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"208","anagram","Steam ties","Estimates","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"209","anagram","Omit tears","Estimator","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"210","anagram","Spare tamer","Parameters","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"211","anagram","Tiny moral","Normality","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"212","anagram","Dad's rant","Standard","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"213","anagram","Diaper","Paired","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"214","anagram","Rascal","Scalar","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"215","anagram","Covert","Vector","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"216","anagram","Ice trams","Matrices","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"217","anagram","A riot","Ratio","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"218","anagram","I roast","Ratios","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"219","anagram","Seldom","Models","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"220","anagram","Casual","Causal","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"221","anagram","Dual rises","Residuals","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"222","anagram","Maple names","Sample mean","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"223","anagram","Maple domes","Sample mode","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"224","anagram","Maiden maples","Sample median","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"225","anagram","Maple tears","Sample rate","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"226","anagram","Maples stare","Sample rates","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"227","anagram","Seize lamps","Sample size","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"228","anagram","Seize psalms","Sample sizes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"229","anagram","Square mane","Mean square","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"230","anagram","Rarer omen","Mean error","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"231","anagram","Striped seat","Paired tests","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"232","anagram","Looped maples","Pooled sample","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"233","anagram","Talent artist","Latent traits","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"234","anagram","Rascal name","Scalar mean","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"235","anagram","Seldom casual","Causal models","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"236","anagram","Casual tea times","Causal estimate","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"237","anagram","Casual inference","Causal inference","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"238","anagram","Casual kiln","Causal link","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"239","anagram","Tinder lens","Trend lines","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"240","anagram","Error: Dad's rant","Standard error","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"241","anagram","Retinal nerd","Linear trend","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"242","anagram","Stare squeals","Least squares","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"243","anagram","Comic ones","Economics","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"244","anagram","Coins? To me!","Economist","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"245","anagram","Money art","Monetary","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"246","anagram","Plastic aim","Capitalism","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"247","anagram","A plastic gain","Capital gains","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"248","anagram","Plastic coat","Capital cost","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"249","anagram","Direct","Credit","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"250","anagram","Bidet","Debit","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"251","anagram","Bad credit","Debit card","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"252","anagram","Discreet orc","Credit score","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"253","anagram","Bidet stone","Debit notes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"254","anagram","Blank nectar","Central bank","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"255","anagram","Reverse","Reserve","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"256","anagram","Corset","Sector","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"257","anagram","Antler","Rental","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"258","anagram","Tears","Rates","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"259","anagram","Shears","Shares","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"260","anagram","Rated","Trade","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"261","anagram","Stared","Trades","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"262","anagram","Starred","Traders","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"263","anagram","Texas","Taxes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"264","anagram","Laciest","Elastic","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"265","anagram","Inflate ration","Inflation rate","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"266","anagram","Deflate ration","Deflation rate","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"267","anagram","Stern tear","Rent rates","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"268","anagram","Antler stare","Rental rates","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"269","anagram","Hardest ears","Share trades","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"270","anagram","A plastic hare","Share capital","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"271","anagram","Direct tear","Credit rate","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"272","anagram","Direct stare","Credit rates","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"273","anagram","Tired beat","Debit rate","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"274","anagram","Texas bidet","Debit taxes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"275","anagram","Tears tax","Tax rates","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"276","anagram","Salt axes","Sales tax","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"277","anagram","Texas taste","State taxes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"278","anagram","Texas estate","Estate taxes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"279","anagram","Direct corset","Credit sector","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"280","anagram","Private corset","Private sector","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"281","anagram","Public corset","Public sector","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"282","anagram","I alter Texas","Retail taxes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"283","anagram","Largest seat","Sales target","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"284","anagram","Antler corset","Rental sector","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"285","anagram","Starred stone","Traders' notes","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"286","riddle","I have many keys, one space, and no rooms. What am I?","Keyboard","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"287","riddle","I grow shorter each time I make the darkness smaller. What am I?","Candle","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"288","riddle","I copy every move you make but disappear when the lights go out. What am I?","Shadow","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"289","riddle","I return every face but keep none of them. What am I?","Mirror","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"290","riddle","I have hands that never hold anything and a face that never smiles. What am I?","Clock","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"291","riddle","I carry hundreds of voices but speak only when opened. What am I?","Book","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"292","riddle","I go up when the rain comes down. What am I?","Umbrella","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"293","riddle","I have many teeth, but I close clothes instead of chewing food. What am I?","Zipper","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"294","riddle","I travel across countries while carrying a message inside my paper coat. What am I?","Envelope","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"295","riddle","The more mistakes I remove, the smaller I become. What am I?","Eraser","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"296","riddle","I let people cross a gap while never taking a step. What am I?","Bridge","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"297","riddle","I am a wall you can see through but usually cannot walk through. What am I?","Window","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"298","riddle","I point north without knowing where I am going. What am I?","Compass","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"299","riddle","I rise when you are hot and fall when you are cold, but I never feel either. What am I?","Thermometer","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"300","riddle","I lose a page every day yet return full-sized next year. What am I?","Calendar","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"301","riddle","I store energy, but the more I give away, the weaker I become. What am I?","Battery","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"302","riddle","I drink water without a mouth and become heavier when I am full. What am I?","Sponge","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"303","riddle","I protect something invisible, but sharing me can make me useless. What am I?","Password","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"304","riddle","I stay behind when you stop reading so you can return without getting lost. What am I?","Bookmark","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"305","riddle","I speak in three colours and make cars obey without saying a word. What am I?","Traffic light","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"306","riddle","I keep food cold while making the room slightly warmer. What am I?","Refrigerator","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"307","riddle","I leave a trail by losing part of myself. What am I?","Pencil","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"308","riddle","I become smaller while making dirty hands cleaner. What am I?","Soap","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"309","riddle","I visit every floor but never leave the building. What am I?","Elevator","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"310","riddle","I spend all day under your feet but fall apart when I am not tied. What am I?","Shoelace","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"311","riddle","I freeze a moment without making it cold. What am I?","Photograph","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"312","riddle","The more people join me, the longer I become, yet I move only from the front. What am I?","Queue","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"313","riddle","I tell you what to do in order, but I never cook the meal. What am I?","Recipe","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"314","riddle","I sink so that something else will not drift away. What am I?","Anchor","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"315","riddle","I make distant things look close while never moving them. What am I?","Telescope","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"316","riddle","I make a sound outside so someone inside will open a door. What am I?","Doorbell","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"317","riddle","I am built in winter, dressed by strangers, and defeated by warm weather. What am I?","Snowman","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"318","riddle","I have two faces, no head, and can settle a small disagreement with a toss. What am I?","Coin","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"319","riddle","You can break me simply by saying my name. What am I?","Silence","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"320","riddle","Everyone gives me a number. I add them all and divide the pot equally. What am I?","Arithmetic mean","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"321","riddle","Line every value up from smallest to largest and I take the middle seat. What am I?","Median","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"322","riddle","I am the value that turns up most often, though I am not always fashionable. What am I?","Mode","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"323","riddle","I ignore everyone except the smallest and largest, then report the distance between them. What am I?","Range","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"324","riddle","I measure spread by squaring every distance from the mean before averaging the complaints. What am I?","Variance","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"325","riddle","I am the square root of variance, returning spread to the original units. What am I?","Standard deviation","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"326","riddle","I say whether two variables move together, but my size changes when their units change. What am I?","Covariance","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"327","riddle","I standardize how two variables move together and stay between minus one and one. What am I?","Correlation","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"328","riddle","I am what the model predicted badly: observed minus fitted. What am I?","Residual","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"329","riddle","Most observations stand together, but I keep my distance and attract every graph. What am I?","Outlier","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"330","riddle","I am a fixed truth about a population that researchers usually cannot see directly. What am I?","Parameter","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"331","riddle","I am calculated from a sample and used as a clue about a population. What am I?","Statistic","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"332","riddle","Give me sample data and a rule, and I produce a guess about an unknown population value. What am I?","Estimator","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"333","riddle","I measure how much an estimate would wobble across repeated samples. What am I?","Standard error","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"334","riddle","I put a lower and upper fence around an estimate to show its uncertainty. What am I?","Confidence interval","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"335","riddle","I begin as the claim of no effect and wait for evidence to challenge me. What am I?","Null hypothesis","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"336","riddle","Assuming the null is true, I measure how surprising data at least this extreme would be. What am I?","P-value","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"337","riddle","I sound an alarm when the null was actually true. What am I?","Type I error","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"338","riddle","I stay quiet even though a real effect is present. What am I?","Type II error","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"339","riddle","When a real effect exists, I am the chance that a test successfully detects it. What am I?","Statistical power","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"340","riddle","I choose units by chance so each eligible member has a known opportunity to enter. What am I?","Random sample","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"341","riddle","I describe how a statistic behaves across many imaginary repetitions of the same sampling process. What am I?","Sampling distribution","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"342","riddle","Gather enough independent observations and I often make sample averages look bell-shaped. What am I?","Central limit theorem","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"343","riddle","I pass through a cloud of points by making the sum of squared vertical mistakes as small as possible. What am I?","Regression line","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"344","riddle","I report the share of sample variation explained by a regression and never fall when another regressor enters. What am I?","R-squared","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"345","riddle","I resemble R-squared but charge a penalty when extra regressors add little value. What am I?","Adjusted R-squared","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"346","riddle","Leave out a cause related to both a regressor and the outcome, and I may bend the estimated coefficient. What am I?","Omitted-variable bias","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"347","riddle","I move treatment, predict it strongly, and must affect the outcome only through that treatment. What am I?","Instrumental variable","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"348","riddle","I subtract the before-after change of one group from the before-after change of another. What am I?","Difference-in-differences","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"349","riddle","Treatment jumps at my cutoff, so observations just on either side can reveal an effect. What am I?","Regression discontinuity","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"350","riddle","I remove every unit trait that does not change over time, even when that trait is unobserved. What am I?","Fixed effects","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"351","riddle","I allow errors within a group to be related while treating different groups as independent. What am I?","Clustered standard errors","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"352","riddle","My errors do not keep the same variance across observations, making their noise change size. What am I?","Heteroskedasticity","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"353","riddle","People want more than available resources can provide, so choices must be made. What am I?","Scarcity","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"354","riddle","I am the value of the best alternative sacrificed when a choice is made. What am I?","Opportunity cost","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"355","riddle","Holding other things constant, I usually rise when price falls because buyers want more. What am I?","Demand","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"356","riddle","Holding other things constant, I usually rise when price rises because sellers offer more. What am I?","Supply","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"357","riddle","I am the price and quantity where planned buying and planned selling agree. What am I?","Market equilibrium","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"358","riddle","I compare a percentage change in quantity with a percentage change in price. What am I?","Price elasticity","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"359","riddle","I raise the general price level and make the same money buy less over time. What am I?","Inflation","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"360","riddle","I lower the general price level, making falling prices a broad economy-wide pattern. What am I?","Deflation","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"361","riddle","I total the market value of final goods and services produced within a country during a period. What am I?","Gross domestic product","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"362","riddle","I count people without work who are available and actively looking for a job. What am I?","Unemployment","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"363","riddle","Even if one producer is better at everything, I can still support trade through lower opportunity cost. What am I?","Comparative advantage","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"364","riddle","I am the extra cost of producing one more unit. What am I?","Marginal cost","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"365","riddle","I am the extra gain from consuming or producing one more unit. What am I?","Marginal benefit","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"366","riddle","I spill costs or benefits onto people who were not part of the transaction. What am I?","Externality","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"367","riddle","One person can use me without reducing another person’s use, and excluding non-payers is difficult. What am I?","Public good","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"368","riddle","Keeping people out is difficult, but one person’s use leaves less for others. What am I?","Common-pool resource","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"369","riddle","I am a market ruled by one seller with no close rival. What am I?","Monopoly","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"370","riddle","I am a market where a few large sellers watch and react to one another. What am I?","Oligopoly","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"371","riddle","I am a legal maximum price; when set below equilibrium, I can create a shortage. What am I?","Price ceiling","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"372","riddle","I am a legal minimum price; when set above equilibrium, I can create a surplus. What am I?","Price floor","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"373","riddle","I place a wedge between what buyers pay and sellers receive while raising public revenue. What am I?","Tax","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"374","riddle","I use public funds to lower a private cost or reward an activity. What am I?","Subsidy","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"375","riddle","I am the mutually beneficial trade that disappears when a distortion blocks exchange. What am I?","Deadweight loss","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"376","riddle","I am the gap between a buyer’s willingness to pay and the price actually paid. What am I?","Consumer surplus","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"377","riddle","I am the gap between the price a seller receives and the minimum the seller would accept. What am I?","Producer surplus","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"378","riddle","After protection is secured, hidden behaviour may become riskier because someone else bears part of the cost. What am I?","Moral hazard","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"379","riddle","Before a contract is signed, hidden types can cause the riskiest participants to select into it. What am I?","Adverse selection","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"380","riddle","One person delegates a task, but the delegate has different incentives and better information. What am I?","Principal-agent problem","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"381","riddle","I am a past cost that cannot be recovered and should not control the next decision. What am I?","Sunk cost","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"382","riddle","Keep other inputs fixed and add more of one input; eventually each extra unit adds less output. What am I?","Diminishing marginal returns","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"383","riddle","I compare the total change in national income with the initial change in government spending or taxes. What am I?","Fiscal multiplier","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"384","riddle","I issue currency, influence interest rates, and try to keep the monetary system stable. What am I?","Central bank","Original","https://github.com/abdulbaaribakpa/statafun","1"
+"385","riddle","I am the price of one currency expressed in another currency. What am I?","Exchange rate","Original","https://github.com/abdulbaaribakpa/statafun","1"
